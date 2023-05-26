@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Profile components renders correctly 1`] = `
+<div
+  className="mycontainer"
+>
+  <div
+    className="ourMission"
+  >
+    <h2>
+      My Missions
+    </h2>
+    <ul />
+  </div>
+  <table />
+</div>
+`;

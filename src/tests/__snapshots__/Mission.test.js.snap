@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Missions components renders correctly 1`] = `
+<div
+  className="container"
+>
+  <table>
+    <thead>
+      <tr>
+        <th>
+          Mission
+        </th>
+        <th>
+          Description
+        </th>
+        <th
+          className="stutus"
+        >
+          Status
+        </th>
+        <th
+          className="but_join"
+        >
+           
+        </th>
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+</div>
+`;
